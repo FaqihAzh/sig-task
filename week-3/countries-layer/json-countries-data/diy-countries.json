@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "code": "34.02",
+      "name": "Kab. Bantul",
+      "coordinates": { "lat": "-7.9190169", "lng": "110.3785438" },
+      "google_place_id": "ChIJn1PcbMdVei4RALxS43Z6AgM"
+    },
+    {
+      "code": "34.03",
+      "name": "Kab. Gunungkidul",
+      "coordinates": { "lat": "-8.0305091", "lng": "110.6168921" },
+      "google_place_id": "ChIJl9jDk6azey4RELxS43Z6AgM"
+    },
+    {
+      "code": "34.01",
+      "name": "Kab. Kulon Progo",
+      "coordinates": { "lat": "-7.8266798", "lng": "110.1640846" },
+      "google_place_id": "ChIJXS6HtFTlei4R8LtS43Z6AgM"
+    },
+    {
+      "code": "34.04",
+      "name": "Kab. Sleman",
+      "coordinates": { "lat": "-7.7325213", "lng": "110.402376" },
+      "google_place_id": "ChIJSRJnxeFeei4RILxS43Z6AgM"
+    },
+    {
+      "code": "34.71",
+      "name": "Kota Yogyakarta",
+      "coordinates": { "lat": "-7.8013672", "lng": "110.3647568" },
+      "google_place_id": "ChIJxWtbvYdXei4RcU9o09Q_ciE"
+    }
+  ],
+  "meta": {
+    "administrative_area_level": 2,
+    "updated_at": "2024-10-07T04:40:25+00:00"
+  }
+}

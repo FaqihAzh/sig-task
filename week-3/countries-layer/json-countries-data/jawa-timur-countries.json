@@ -1,0 +1,236 @@
+{
+  "data": [
+    {
+      "code": "35.26",
+      "name": "Kab. Bangkalan",
+      "coordinates": { "lat": "-7.038375", "lng": "112.9136695" },
+      "google_place_id": "ChIJe-aBiYgZ2C0RcIrN43Z6AgM"
+    },
+    {
+      "code": "35.10",
+      "name": "Kab. Banyuwangi",
+      "coordinates": { "lat": "-8.2190944", "lng": "114.3691416" },
+      "google_place_id": "ChIJ76wUlxZU0S0R4LxS43Z6AgM"
+    },
+    {
+      "code": "35.05",
+      "name": "Kab. Blitar",
+      "coordinates": { "lat": "-8.0954627", "lng": "112.1609056" },
+      "google_place_id": "ChIJPT2wARjreC4R8LxS43Z6AgM"
+    },
+    {
+      "code": "35.22",
+      "name": "Kab. Bojonegoro",
+      "coordinates": { "lat": "-7.3174629", "lng": "111.7614661" },
+      "google_place_id": "ChIJ8TFS8CR-dy4RgL5S43Z6AgM"
+    },
+    {
+      "code": "35.11",
+      "name": "Kab. Bondowoso",
+      "coordinates": { "lat": "-7.9673906", "lng": "113.9060624" },
+      "google_place_id": "ChIJH9nkRSXF1i0RAL1S43Z6AgM"
+    },
+    {
+      "code": "35.25",
+      "name": "Kab. Gresik",
+      "coordinates": { "lat": "-7.1649392", "lng": "112.6394361" },
+      "google_place_id": "EnRKbC4gRHIuIFdhaGlkaW4gUy5ILiBHZy4gSUkgQyBOby4yLCBQdXRhdCBMdWFyLCBTdWtvcmFtZSwgS2VjLiBHcmVzaWssIEthYnVwYXRlbiBHcmVzaWssIEphd2EgVGltdXIgNjExMjEsIEluZG9uZXNpYSIwEi4KFAoSCZ8PORZpANgtER1yFfs0xYTeEAIqFAoSCb_6JTxpANgtEa2ygRrb5__I"
+    },
+    {
+      "code": "35.09",
+      "name": "Kab. Jember",
+      "coordinates": { "lat": "-8.1844859", "lng": "113.6680747" },
+      "google_place_id": "ChIJd4feq6eQ1i0RLt2jgwxztt4"
+    },
+    {
+      "code": "35.17",
+      "name": "Kab. Jombang",
+      "coordinates": { "lat": "-7.5740867", "lng": "112.28609" },
+      "google_place_id": "ChIJMZo1j5RqeC4RIL1S43Z6AgM"
+    },
+    {
+      "code": "35.06",
+      "name": "Kab. Kediri",
+      "coordinates": { "lat": "-7.8232397", "lng": "112.1907122" },
+      "google_place_id": "ChIJ32UO0p1ZeC4RUL1S43Z6AgM"
+    },
+    {
+      "code": "35.24",
+      "name": "Kab. Lamongan",
+      "coordinates": { "lat": "-7.1269261", "lng": "112.3337769" },
+      "google_place_id": "ChIJl-g9lPTzdy4RkL1S43Z6AgM"
+    },
+    {
+      "code": "35.08",
+      "name": "Kab. Lumajang",
+      "coordinates": { "lat": "-8.0943571", "lng": "113.1441558" },
+      "google_place_id": "ChIJq1Vyx4lC1i0RoL1S43Z6AgM"
+    },
+    {
+      "code": "35.19",
+      "name": "Kab. Madiun",
+      "coordinates": { "lat": "-7.6093306", "lng": "111.6183755" },
+      "google_place_id": "ChIJI8co1s25eS4RYL5S43Z6AgM"
+    },
+    {
+      "code": "35.20",
+      "name": "Kab. Magetan",
+      "coordinates": { "lat": "-7.6433138", "lng": "111.356045" },
+      "google_place_id": "ChIJ85hyVNuTeS4RsL5S43Z6AgM"
+    },
+    {
+      "code": "35.07",
+      "name": "Kab. Malang",
+      "coordinates": { "lat": "-8.242209", "lng": "112.7152125" },
+      "google_place_id": "ChIJ2XD8XZsg1i0RsL1S43Z6AgM"
+    },
+    {
+      "code": "35.16",
+      "name": "Kab. Mojokerto",
+      "coordinates": { "lat": "-7.563831", "lng": "112.4768287" },
+      "google_place_id": "ChIJuzWP3ehzeC4RML5S43Z6AgM"
+    },
+    {
+      "code": "35.18",
+      "name": "Kab. Nganjuk",
+      "coordinates": { "lat": "-7.5943507", "lng": "111.9045541" },
+      "google_place_id": "ChIJ0ShiRuFLeC4RwL1S43Z6AgM"
+    },
+    {
+      "code": "35.21",
+      "name": "Kab. Ngawi",
+      "coordinates": { "lat": "-7.460987", "lng": "111.3321974" },
+      "google_place_id": "ChIJAbZuU7voeS4RkL5S43Z6AgM"
+    },
+    {
+      "code": "35.01",
+      "name": "Kab. Pacitan",
+      "coordinates": { "lat": "-8.1850094", "lng": "111.1031849" },
+      "google_place_id": "ChIJh_851uVheS4R3SmfRuvHrcA"
+    },
+    {
+      "code": "35.28",
+      "name": "Kab. Pamekasan",
+      "coordinates": { "lat": "-7.1050857", "lng": "113.5252319" },
+      "google_place_id": "ChIJcWcFDLXW2S0RgIrN43Z6AgM"
+    },
+    {
+      "code": "35.14",
+      "name": "Kab. Pasuruan",
+      "coordinates": { "lat": "-7.7859961", "lng": "112.858217" },
+      "google_place_id": "ChIJ7bXth9fN1y0R0L1S43Z6AgM"
+    },
+    {
+      "code": "35.02",
+      "name": "Kab. Ponorogo",
+      "coordinates": { "lat": "-7.8650759", "lng": "111.4696322" },
+      "google_place_id": "ChIJUej-nIULeS4RoL5S43Z6AgM"
+    },
+    {
+      "code": "35.13",
+      "name": "Kab. Probolinggo",
+      "coordinates": { "lat": "-7.8717562", "lng": "113.4776098" },
+      "google_place_id": "ChIJNftklY1T1i0R4L1S43Z6AgM"
+    },
+    {
+      "code": "35.27",
+      "name": "Kab. Sampang",
+      "coordinates": { "lat": "-7.0402326", "lng": "113.2394452" },
+      "google_place_id": "ChIJff5hWeou2C0RkIrN43Z6AgM"
+    },
+    {
+      "code": "35.15",
+      "name": "Kab. Sidoarjo",
+      "coordinates": { "lat": "-7.4726134", "lng": "112.6675398" },
+      "google_place_id": "ChIJv9yOhKDh1y0R8L1S43Z6AgM"
+    },
+    {
+      "code": "35.12",
+      "name": "Kab. Situbondo",
+      "coordinates": { "lat": "-7.7888522", "lng": "114.1914951" },
+      "google_place_id": "ChIJE-vQ217W1i0RAL5S43Z6AgM"
+    },
+    {
+      "code": "35.29",
+      "name": "Kab. Sumenep",
+      "coordinates": { "lat": "-6.9253999", "lng": "113.9060624" },
+      "google_place_id": "ChIJ5ULariD_2S0RoIrN43Z6AgM"
+    },
+    {
+      "code": "35.03",
+      "name": "Kab. Trenggalek",
+      "coordinates": { "lat": "-8.1824112", "lng": "111.6183755" },
+      "google_place_id": "ChIJN5habCgReS4REL5S43Z6AgM"
+    },
+    {
+      "code": "35.23",
+      "name": "Kab. Tuban",
+      "coordinates": { "lat": "-6.8949099", "lng": "112.0416754" },
+      "google_place_id": "ChIJwdlJhsSidy4RHcHMFgJo2xQ"
+    },
+    {
+      "code": "35.04",
+      "name": "Kab. Tulungagung",
+      "coordinates": { "lat": "-8.0843211", "lng": "111.9045541" },
+      "google_place_id": "ChIJuRC2TrfjeC4RIL5S43Z6AgM"
+    },
+    {
+      "code": "35.79",
+      "name": "Kota Batu",
+      "coordinates": { "lat": "-7.8623425", "lng": "112.5053023" },
+      "google_place_id": "ChIJB17pWkGHeC4R10vXXDgYSfY"
+    },
+    {
+      "code": "35.72",
+      "name": "Kota Blitar",
+      "coordinates": { "lat": "-8.0954627", "lng": "112.1609056" },
+      "google_place_id": "ChIJPT2wARjreC4R8LxS43Z6AgM"
+    },
+    {
+      "code": "35.71",
+      "name": "Kota Kediri",
+      "coordinates": { "lat": "-7.8480156", "lng": "112.0178286" },
+      "google_place_id": "ChIJRwZu_Q1XeC4Rstkzg5Z7AyU"
+    },
+    {
+      "code": "35.77",
+      "name": "Kota Madiun",
+      "coordinates": { "lat": "-7.6310587", "lng": "111.5300159" },
+      "google_place_id": "ChIJMzqBfFO-eS4RrlNaVHPx4q8"
+    },
+    {
+      "code": "35.73",
+      "name": "Kota Malang",
+      "coordinates": { "lat": "-7.9508473", "lng": "112.6624085" },
+      "google_place_id": "ChIJOSUsspUp1i0R20w1Kydgk84"
+    },
+    {
+      "code": "35.76",
+      "name": "Kota Mojokerto",
+      "coordinates": { "lat": "-7.4704747", "lng": "112.4401329" },
+      "google_place_id": "ChIJgw3lgDwOeC4RQL1S43Z6AgM"
+    },
+    {
+      "code": "35.75",
+      "name": "Kota Pasuruan",
+      "coordinates": { "lat": "-7.6469193", "lng": "112.8999225" },
+      "google_place_id": "ChIJ31f7peHF1y0RloB23o2VjL4"
+    },
+    {
+      "code": "35.74",
+      "name": "Kota Probolinggo",
+      "coordinates": { "lat": "-7.7764226", "lng": "113.2037131" },
+      "google_place_id": "ChIJeebJwJmt1y0RgWHFp_rQxUY"
+    },
+    {
+      "code": "35.78",
+      "name": "Kota Surabaya",
+      "coordinates": { "lat": "-7.225452", "lng": "112.7596424" },
+      "google_place_id": "ChIJCzDj1QH51y0Rd5o04_E8A-0"
+    }
+  ],
+  "meta": {
+    "administrative_area_level": 2,
+    "updated_at": "2024-10-07T04:41:20+00:00"
+  }
+}

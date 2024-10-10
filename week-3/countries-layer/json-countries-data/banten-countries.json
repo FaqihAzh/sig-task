@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "code": "36.02",
+      "name": "Kab. Lebak",
+      "coordinates": { "lat": "-6.5643956", "lng": "106.2522143" },
+      "google_place_id": "ChIJ59Ui6HBoQi4RELoo_PHoAQM"
+    },
+    {
+      "code": "36.01",
+      "name": "Kab. Pandeglang",
+      "coordinates": { "lat": "-6.7482706", "lng": "105.6881788" },
+      "google_place_id": "ChIJ56oAUl62Qy4RwLgo_PHoAQM"
+    },
+    {
+      "code": "36.04",
+      "name": "Kab. Serang",
+      "coordinates": { "lat": "-6.1397339", "lng": "106.040506" },
+      "google_place_id": "ChIJvzlvWA-LQS4Rc9G9fsWrJ5s"
+    },
+    {
+      "code": "36.03",
+      "name": "Kab. Tangerang",
+      "coordinates": { "lat": "-6.1870007", "lng": "106.487658" },
+      "google_place_id": "ChIJ43qtsLb_aS4RsLn-FG1XAQM"
+    },
+    {
+      "code": "36.72",
+      "name": "Kota Cilegon",
+      "coordinates": { "lat": "-6.0186817", "lng": "106.0558218" },
+      "google_place_id": "ChIJQw_kxRKOQS4RsIDE_mHI9O8"
+    },
+    {
+      "code": "36.73",
+      "name": "Kota Serang",
+      "coordinates": { "lat": "-6.1169309", "lng": "106.1538519" },
+      "google_place_id": "ChIJYUpTuw2LQS4R0Lgo_PHoAQM"
+    },
+    {
+      "code": "36.71",
+      "name": "Kota Tangerang",
+      "coordinates": { "lat": "-6.1701796", "lng": "106.6403236" },
+      "google_place_id": "ChIJjePSU-j4aS4RwLn-FG1XAQM"
+    },
+    {
+      "code": "36.74",
+      "name": "Kota Tangerang Selatan",
+      "coordinates": { "lat": "-6.2835218", "lng": "106.7112933" },
+      "google_place_id": "ChIJlcAZBLH6aS4R5K9KLBxIBoc"
+    }
+  ],
+  "meta": {
+    "administrative_area_level": 2,
+    "updated_at": "2024-10-07T04:40:12+00:00"
+  }
+}

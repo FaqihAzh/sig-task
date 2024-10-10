@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "code": "31.01",
+      "name": "Kab. Adm. Kep. Seribu",
+      "coordinates": { "lat": "-5.7392014", "lng": "106.5996686" },
+      "google_place_id": "ChIJH2KW04zWQS4Rs3LfZhyHbqA"
+    },
+    {
+      "code": "31.73",
+      "name": "Kota Adm. Jakarta Barat",
+      "coordinates": { "lat": "-6.1674309", "lng": "106.7637239" },
+      "google_place_id": "ChIJGdcQ0cn3aS4RoLjULejFAAM"
+    },
+    {
+      "code": "31.71",
+      "name": "Kota Adm. Jakarta Pusat",
+      "coordinates": { "lat": "-6.1876883", "lng": "106.8162264" },
+      "google_place_id": "ChIJadFZOJ32aS4RMt3mz9UdLvA"
+    },
+    {
+      "code": "31.74",
+      "name": "Kota Adm. Jakarta Selatan",
+      "coordinates": { "lat": "-6.2369931", "lng": "106.8153813" },
+      "google_place_id": "ChIJMZwvyV_xaS4Ru3kfxqlZRwo"
+    },
+    {
+      "code": "31.75",
+      "name": "Kota Adm. Jakarta Timur",
+      "coordinates": { "lat": "-6.1805113", "lng": "106.8283831" },
+      "google_place_id": "ChIJB0vJuDb0aS4R9oJ8iznVpm4"
+    },
+    {
+      "code": "31.72",
+      "name": "Kota Adm. Jakarta Utara",
+      "coordinates": { "lat": "-6.1480576", "lng": "106.8997565" },
+      "google_place_id": "ChIJ1S8TsYr1aS4RJzs_yKb1IyY"
+    }
+  ],
+  "meta": {
+    "administrative_area_level": 2,
+    "updated_at": "2024-10-07T04:40:31+00:00"
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "data": [
+    {
+      "code": "32.04",
+      "name": "Kab. Bandung",
+      "coordinates": { "lat": "-7.1340702", "lng": "107.6215321" },
+      "google_place_id": "ChIJsdcXjLjuaC4R4Lgo_PHoAQM"
+    },
+    {
+      "code": "32.17",
+      "name": "Kab. Bandung Barat",
+      "coordinates": { "lat": "-6.8652214", "lng": "107.4919767" },
+      "google_place_id": "ChIJxxBSSOj6aC4RWMd-J5yi7Eg"
+    },
+    {
+      "code": "32.16",
+      "name": "Kab. Bekasi",
+      "coordinates": { "lat": "-6.366723", "lng": "107.1735638" },
+      "google_place_id": "ChIJv4cuuHGGaS4Ril-OFHGHMec"
+    },
+    {
+      "code": "32.01",
+      "name": "Kab. Bogor",
+      "coordinates": { "lat": "-6.5517758", "lng": "106.6291304" },
+      "google_place_id": "ChIJN4R5EuPDaS4RkLn-FG1XAQM"
+    },
+    {
+      "code": "32.07",
+      "name": "Kab. Ciamis",
+      "coordinates": { "lat": "-7.3320773", "lng": "108.3492543" },
+      "google_place_id": "ChIJo8LzLweLZS4RMLoo_PHoAQM"
+    },
+    {
+      "code": "32.03",
+      "name": "Kab. Cianjur",
+      "coordinates": { "lat": "-7.3579773", "lng": "107.1957203" },
+      "google_place_id": "ChIJYZu6x5RcaC4R8Lko_PHoAQM"
+    },
+    {
+      "code": "32.09",
+      "name": "Kab. Cirebon",
+      "coordinates": { "lat": "-6.7560624", "lng": "108.5528678" },
+      "google_place_id": "ChIJHzn4cgAdby4RoxOsxgh6-hY"
+    },
+    {
+      "code": "32.05",
+      "name": "Kab. Garut",
+      "coordinates": { "lat": "-7.5012204", "lng": "107.763621" },
+      "google_place_id": "ChIJhcCnZKOmaC4R8Lgo_PHoAQM"
+    },
+    {
+      "code": "32.12",
+      "name": "Kab. Indramayu",
+      "coordinates": { "lat": "-6.4557326", "lng": "108.1903059" },
+      "google_place_id": "ChIJYYfXPVLIbi4RMLko_PHoAQM"
+    },
+    {
+      "code": "32.15",
+      "name": "Kab. Karawang",
+      "coordinates": { "lat": "-6.3227303", "lng": "107.3375791" },
+      "google_place_id": "ChIJAQ7neV53aS4R4Ln-FG1XAQM"
+    },
+    {
+      "code": "32.08",
+      "name": "Kab. Kuningan",
+      "coordinates": { "lat": "-7.0138053", "lng": "108.5700636" },
+      "google_place_id": "ChIJF_Y7zjYSby4RULoo_PHoAQM"
+    },
+    {
+      "code": "32.10",
+      "name": "Kab. Majalengka",
+      "coordinates": { "lat": "-6.7790605", "lng": "108.2852049" },
+      "google_place_id": "ChIJQwayP7Ioby4RELko_PHoAQM"
+    },
+    {
+      "code": "32.18",
+      "name": "Kab. Pangandaran",
+      "coordinates": { "lat": "-7.6150611", "lng": "108.4988269" },
+      "google_place_id": "ChIJZRshSM6WZS4R9gf8GCWI3hg"
+    },
+    {
+      "code": "32.14",
+      "name": "Kab. Purwakarta",
+      "coordinates": { "lat": "-6.5649241", "lng": "107.4321959" },
+      "google_place_id": "ChIJCfDXmQoPaS4RULko_PHoAQM"
+    },
+    {
+      "code": "32.13",
+      "name": "Kab. Subang",
+      "coordinates": { "lat": "-6.3487617", "lng": "107.763621" },
+      "google_place_id": "ChIJNbaBXo0-aS4RQLko_PHoAQM"
+    },
+    {
+      "code": "32.02",
+      "name": "Kab. Sukabumi",
+      "coordinates": { "lat": "-6.8791499", "lng": "106.9474101" },
+      "google_place_id": "ChIJX5RzijVKaC4RiqMawgCDLXs"
+    },
+    {
+      "code": "32.11",
+      "name": "Kab. Sumedang",
+      "coordinates": { "lat": "-6.832858", "lng": "107.9531836" },
+      "google_place_id": "ChIJKWD9d0DUaC4RILko_PHoAQM"
+    },
+    {
+      "code": "32.06",
+      "name": "Kab. Tasikmalaya",
+      "coordinates": { "lat": "-7.6513306", "lng": "108.1428669" },
+      "google_place_id": "ChIJxTIXhcH4ZS4RALko_PHoAQM"
+    },
+    {
+      "code": "32.73",
+      "name": "Kota Bandung",
+      "coordinates": { "lat": "-6.885969", "lng": "107.616301" },
+      "google_place_id": "ChIJ8T93T__maC4RRdUEsVHVBzQ"
+    },
+    {
+      "code": "32.79",
+      "name": "Kota Banjar",
+      "coordinates": { "lat": "-7.3706874", "lng": "108.5342487" },
+      "google_place_id": "ChIJz95gJvthby4RQOEo_PHoAQQ"
+    },
+    {
+      "code": "32.75",
+      "name": "Kota Bekasi",
+      "coordinates": { "lat": "-6.2733758", "lng": "106.9830865" },
+      "google_place_id": "ChIJPWOtRoWNaS4ReCBAZYne6Hk"
+    },
+    {
+      "code": "32.71",
+      "name": "Kota Bogor",
+      "coordinates": { "lat": "-6.5971469", "lng": "106.8060388" },
+      "google_place_id": "ChIJtarWDErEaS4RoLn-FG1XAQM"
+    },
+    {
+      "code": "32.77",
+      "name": "Kota Cimahi",
+      "coordinates": { "lat": "-6.8840816", "lng": "107.5413039" },
+      "google_place_id": "ChIJF3a_jj7kaC4R4HQp_PHoAQU"
+    },
+    {
+      "code": "32.74",
+      "name": "Kota Cirebon",
+      "coordinates": { "lat": "-6.7560624", "lng": "108.5528678" },
+      "google_place_id": "ChIJHzn4cgAdby4RoxOsxgh6-hY"
+    },
+    {
+      "code": "32.76",
+      "name": "Kota Depok",
+      "coordinates": { "lat": "-6.4024844", "lng": "106.7942405" },
+      "google_place_id": "ChIJn968KAjsaS4R8CQFFW1XAQM"
+    },
+    {
+      "code": "32.72",
+      "name": "Kota Sukabumi",
+      "coordinates": { "lat": "-6.9277361", "lng": "106.9299579" },
+      "google_place_id": "ChIJ9USebCVIaC4R1hXDaRaaznU"
+    },
+    {
+      "code": "32.78",
+      "name": "Kota Tasikmalaya",
+      "coordinates": { "lat": "-7.3505808", "lng": "108.2171633" },
+      "google_place_id": "ChIJb1dMkuVWby4RACUv_PHoAQM"
+    }
+  ],
+  "meta": {
+    "administrative_area_level": 2,
+    "updated_at": "2024-10-07T04:40:55+00:00"
+  }
+}

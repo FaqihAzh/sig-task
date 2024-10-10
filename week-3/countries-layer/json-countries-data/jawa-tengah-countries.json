@@ -1,0 +1,218 @@
+{
+  "data": [
+    {
+      "code": "33.04",
+      "name": "Kab. Banjarnegara",
+      "coordinates": { "lat": "-7.3794368", "lng": "109.6163185" },
+      "google_place_id": "ChIJM1S1t2yqei4RgLpS43Z6AgM"
+    },
+    {
+      "code": "33.02",
+      "name": "Kab. Banyumas",
+      "coordinates": { "lat": "-7.4832133", "lng": "109.140438" },
+      "google_place_id": "ChIJ_bC8v0ZnZS4RYLpS43Z6AgM"
+    },
+    {
+      "code": "33.25",
+      "name": "Kab. Batang",
+      "coordinates": { "lat": "-7.032551", "lng": "109.7986045" },
+      "google_place_id": "ChIJy3z4YdAVcC4RYLtS43Z6AgM"
+    },
+    {
+      "code": "33.16",
+      "name": "Kab. Blora",
+      "coordinates": { "lat": "-7.012244", "lng": "111.3798928" },
+      "google_place_id": "ChIJZT7I_2dbdy4RALtS43Z6AgM"
+    },
+    {
+      "code": "33.09",
+      "name": "Kab. Boyolali",
+      "coordinates": { "lat": "-7.4317773", "lng": "110.6883536" },
+      "google_place_id": "ChIJEfJ_6-Jzei4RgLxS43Z6AgM"
+    },
+    {
+      "code": "33.29",
+      "name": "Kab. Brebes",
+      "coordinates": { "lat": "-6.9591793", "lng": "108.902683" },
+      "google_place_id": "ChIJn2LfV4mYby4RoLtS43Z6AgM"
+    },
+    {
+      "code": "33.01",
+      "name": "Kab. Cilacap",
+      "coordinates": { "lat": "-7.6982991", "lng": "109.023521" },
+      "google_place_id": "ChIJO9S-Co0MZS4RUAlT43Z6AgQ"
+    },
+    {
+      "code": "33.21",
+      "name": "Kab. Demak",
+      "coordinates": { "lat": "-6.9238879", "lng": "110.6645683" },
+      "google_place_id": "ChIJN5ZPBKfrcC4RwLxS43Z6AgM"
+    },
+    {
+      "code": "33.15",
+      "name": "Kab. Grobogan",
+      "coordinates": { "lat": "-7.1541672", "lng": "110.9506636" },
+      "google_place_id": "ChIJS1v8Jbu6cC4R8LpS43Z6AgM"
+    },
+    {
+      "code": "33.20",
+      "name": "Kab. Jepara",
+      "coordinates": { "lat": "-6.582711", "lng": "110.6786933" },
+      "google_place_id": "ChIJM33XVdcgcS4RQLtS43Z6AgM"
+    },
+    {
+      "code": "33.13",
+      "name": "Kab. Karanganyar",
+      "coordinates": { "lat": "-7.6387228", "lng": "111.0460407" },
+      "google_place_id": "ChIJjeJuQfUhei4RYLxS43Z6AgM"
+    },
+    {
+      "code": "33.05",
+      "name": "Kab. Kebumen",
+      "coordinates": { "lat": "-7.6680559", "lng": "109.6524575" },
+      "google_place_id": "ChIJMSwNBAW1ei4RkLpS43Z6AgM"
+    },
+    {
+      "code": "33.24",
+      "name": "Kab. Kendal",
+      "coordinates": { "lat": "-7.0265442", "lng": "110.1879106" },
+      "google_place_id": "ChIJZWycCNZncC4RoLxS43Z6AgM"
+    },
+    {
+      "code": "33.10",
+      "name": "Kab. Klaten",
+      "coordinates": { "lat": "-7.657893", "lng": "110.6645683" },
+      "google_place_id": "ChIJmaiTB2RBei4REFV6jbOoxHY"
+    },
+    {
+      "code": "33.19",
+      "name": "Kab. Kudus",
+      "coordinates": { "lat": "-6.7726186", "lng": "110.8791343" },
+      "google_place_id": "ChIJj7tPBjLFcC4RMLtS43Z6AgM"
+    },
+    {
+      "code": "33.08",
+      "name": "Kab. Magelang",
+      "coordinates": { "lat": "-7.4305237", "lng": "110.2832217" },
+      "google_place_id": "ChIJTeBvtNeIei4RwLpS43Z6AgM"
+    },
+    {
+      "code": "33.18",
+      "name": "Kab. Pati",
+      "coordinates": { "lat": "-6.7449635", "lng": "111.0460407" },
+      "google_place_id": "ChIJlawfoIfTcC4RILtS43Z6AgM"
+    },
+    {
+      "code": "33.26",
+      "name": "Kab. Pekalongan",
+      "coordinates": { "lat": "-7.0517128", "lng": "109.6163185" },
+      "google_place_id": "ChIJLxWNvQUfcC4RcLtS43Z6AgM"
+    },
+    {
+      "code": "33.27",
+      "name": "Kab. Pemalang",
+      "coordinates": { "lat": "-7.0599422", "lng": "109.4259114" },
+      "google_place_id": "ChIJIZuGk1rdby4RgLtS43Z6AgM"
+    },
+    {
+      "code": "33.03",
+      "name": "Kab. Purbalingga",
+      "coordinates": { "lat": "-7.3058578", "lng": "109.4259114" },
+      "google_place_id": "ChIJcc4bJ0D4by4RcLpS43Z6AgM"
+    },
+    {
+      "code": "33.06",
+      "name": "Kab. Purworejo",
+      "coordinates": { "lat": "-7.6964509", "lng": "109.9989416" },
+      "google_place_id": "ChIJld6cPmbqei4RoLpS43Z6AgM"
+    },
+    {
+      "code": "33.17",
+      "name": "Kab. Rembang",
+      "coordinates": { "lat": "-6.8082115", "lng": "111.4275888" },
+      "google_place_id": "ChIJUYyvjU09dy4RELtS43Z6AgM"
+    },
+    {
+      "code": "33.22",
+      "name": "Kab. Semarang",
+      "coordinates": { "lat": "-7.1764785", "lng": "110.4738762" },
+      "google_place_id": "ChIJzQZQckSCcC4RsLxS43Z6AgM"
+    },
+    {
+      "code": "33.14",
+      "name": "Kab. Sragen",
+      "coordinates": { "lat": "-7.43027", "lng": "111.0091855" },
+      "google_place_id": "ChIJD2_qrlAEei4R4LpS43Z6AgM"
+    },
+    {
+      "code": "33.11",
+      "name": "Kab. Sukoharjo",
+      "coordinates": { "lat": "-7.6483506", "lng": "110.8552919" },
+      "google_place_id": "ChIJ079JS2s8ei4RULxS43Z6AgM"
+    },
+    {
+      "code": "33.28",
+      "name": "Kab. Tegal",
+      "coordinates": { "lat": "-6.9902371", "lng": "109.140438" },
+      "google_place_id": "ChIJ5d6pL2yVby4RkLtS43Z6AgM"
+    },
+    {
+      "code": "33.23",
+      "name": "Kab. Temanggung",
+      "coordinates": { "lat": "-7.2748721", "lng": "110.0891894" },
+      "google_place_id": "ChIJWeUACVF3cC4RULtS43Z6AgM"
+    },
+    {
+      "code": "33.12",
+      "name": "Kab. Wonogiri",
+      "coordinates": { "lat": "-7.814734", "lng": "110.9246587" },
+      "google_place_id": "EmVKbC4gS2FiLiBOby4yLCBTYWJnZ3JhaGFuLCBHaXJpcHVyd28sIEtlYy4gV29ub2dpcmksIEthYnVwYXRlbiBXb25vZ2lyaSwgSmF3YSBUZW5nYWggNTc2MTIsIEluZG9uZXNpYSIwEi4KFAoSCUkPS3s2LnouEa7xfa8mF6s8EAIqFAoSCS88oIc2LnouEZOqaDvug5VV"
+    },
+    {
+      "code": "33.07",
+      "name": "Kab. Wonosobo",
+      "coordinates": { "lat": "-7.3632094", "lng": "109.9001796" },
+      "google_place_id": "ChIJE3Uv9oKhei4RsLpS43Z6AgM"
+    },
+    {
+      "code": "33.71",
+      "name": "Kota Magelang",
+      "coordinates": { "lat": "-7.4797342", "lng": "110.2176941" },
+      "google_place_id": "ChIJgfNuc12Pei4RJGyWxI5dZKA"
+    },
+    {
+      "code": "33.75",
+      "name": "Kota Pekalongan",
+      "coordinates": { "lat": "-6.8898362", "lng": "109.6745916" },
+      "google_place_id": "ChIJE_6QpCwkcC4RtowlaxKKxsA"
+    },
+    {
+      "code": "33.73",
+      "name": "Kota Salatiga",
+      "coordinates": { "lat": "-7.3305234", "lng": "110.5084366" },
+      "google_place_id": "ChIJaZwsaX54ei4RLEbEoCM-pfY"
+    },
+    {
+      "code": "33.74",
+      "name": "Kota Semarang",
+      "coordinates": { "lat": "-6.9818006", "lng": "110.4120729" },
+      "google_place_id": "ChIJTQINP02LcC4R8rlc2rkyBB4"
+    },
+    {
+      "code": "33.72",
+      "name": "Kota Surakarta",
+      "coordinates": { "lat": "-7.5695177", "lng": "110.8250266" },
+      "google_place_id": "ChIJ-56wXYUWei4R-aR18v3bwqY"
+    },
+    {
+      "code": "33.76",
+      "name": "Kota Tegal",
+      "coordinates": { "lat": "-6.8588473", "lng": "109.1047663" },
+      "google_place_id": "ChIJKT5jld-5by4RwKryRd0jqQs"
+    }
+  ],
+  "meta": {
+    "administrative_area_level": 2,
+    "updated_at": "2024-10-07T04:41:08+00:00"
+  }
+}
